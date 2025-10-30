@@ -23,15 +23,17 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats (2025 Activity)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subink-7&show_icons=true&theme=tokyonight" alt="subink-7 stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subink-7&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subink-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Subin's%20GitHub%20Stats%20(2025)" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subink-7&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subink-7&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subink-7&theme=tokyo-night&bg_color=0D1117&hide_border=true&custom_title=Subin's%20Contributions%20in%202025" />
 </p>
+
 
 
 ---
