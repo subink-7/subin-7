@@ -27,7 +27,7 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/subinkhadka/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+<a href="https://www.linkedin.com/in/subin-khadka-675b52237/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
 <a href="https://ingskill.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=react" alt="Portfolio" height="40" /></a>
 </p>
 
